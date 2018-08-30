@@ -1,8 +1,9 @@
-sudo apt-get install screen
-sudo apt-get install nano
+#!/bin/bash
 
-Comando para Minerar Abaixo
-OBS:D˙vidas procure informaÁıes na Internet
+apt-get install screen
+apt-get install nano
+
+#Comando para Minerar Abaixo
 
 
 screen
@@ -23,7 +24,7 @@ echo 128 > /proc/sys/vm/nr_hugepages
 
 ./xmrig
 
-Para sair e deixar Vps ligada segure Ctrl e aperte r·pido as letras A  D  (duas vezes)
+Para sair e deixar Vps ligada segure Ctrl e aperte r√°pido as letras A  D  (duas vezes)
 
 
 VISITE O CANAL QUERO BITCOIN RENDA EXTRA DEIXE SEU LIKE 
