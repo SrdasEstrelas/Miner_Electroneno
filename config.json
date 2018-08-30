@@ -1,5 +1,5 @@
 {
-    "algo": "cryptonight",
+    "algo": "cn/msr",
     "api": {
         "port": 0,
         "access-token": null,
@@ -12,23 +12,23 @@
     "colors": true,
     "cpu-affinity": null,
     "cpu-priority": null,
-    "donate-level": 5,
+    "donate-level": 1,
     "huge-pages": true,
     "hw-aes": null,
     "log-file": null,
-    "max-cpu-usage": 75,
+    "max-cpu-usage": 90,
     "pools": [
         {
-            "url": "proxy.fee.xmrig.com:9999",
-            "user": "YOUR_WALLET",
+            "url": "uspool.electronero.org:2233",
+            "user": "83rZNEc96NKaYhWdmjhtrGYX6vP9CWMLyQtux3pCfVPAH14ZHb8TF2GYhZqzCrTkV5CJQPpr4QdprHc19fMECvxkRmsnwui",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
             "keepalive": false,
-            "variant": 1
+            "variant": 4
         }
     ],
-    "print-time": 60,
+    "print-time": 40,
     "retries": 5,
     "retry-pause": 5,
     "safe": false,
